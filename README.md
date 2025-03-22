@@ -41,7 +41,7 @@ This script will:
 
 If you want to use a specific scraping method:
 
-#### API Method (Recommended)
+#### API Method (Outdated, probably won't work)
 
 ```bash
 python api_scraper.py
@@ -53,7 +53,7 @@ python api_scraper.py
 python tracker_scraper.py
 ```
 
-#### Selenium Method
+#### Selenium Method (Recommended)
 
 ```bash
 python selenium_scraper.py
